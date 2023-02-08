@@ -1,4 +1,5 @@
 # EinsteinBot_Check_Agent_Availability_Flow
+<b>POC</b>
 
 <h1>To check agent availability in the bot, we will create two flows.</h1>
 
@@ -67,6 +68,14 @@ c. ![image](https://user-images.githubusercontent.com/37139091/217404489-9408c1e
 
 ![image](https://user-images.githubusercontent.com/37139091/217406962-afcda453-ca26-44b9-8448-5c40877c4b59.png)
 
+
+<h2> Step Three - In Bot:</h2>
+
+<h2>a. Create a dialog called 'chat with live agent'. In this dialog, you will view the Apex code we worked on </h2>
+<h2> </h2>
+<h2> </h2>
+<h2> </h2>
+<h2> </h2>
 
 
 
