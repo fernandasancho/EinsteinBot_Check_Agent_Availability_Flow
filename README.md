@@ -4,7 +4,7 @@
 
 a. To check user presence status. We will use it as a subflow
 
-b. check agent availability
+b. To check agent availability
 
 
 <b>Reminder:</b> Ensure your permission set for bot is correct.
