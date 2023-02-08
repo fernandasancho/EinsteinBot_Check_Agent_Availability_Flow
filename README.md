@@ -71,11 +71,17 @@ c. ![image](https://user-images.githubusercontent.com/37139091/217404489-9408c1e
 
 <h2> Step Three - In Bot:</h2>
 
-<h2>a. Create a dialog called 'chat with live agent'. In this dialog, you will view the Apex code we worked on </h2>
-<h2> </h2>
-<h2> </h2>
-<h2> </h2>
-<h2> </h2>
+<h2>a. Create a dialog called 'chat with live agent'. In this dialog, you will view the Apex code we worked on https://github.com/fernandasancho/EinteinBot_Check_Business_Hours/blob/main/README.md </h2>
+
+![image](https://user-images.githubusercontent.com/37139091/217407636-3be01b88-a0f7-4f49-a92b-393cc553e37c.png)
+
+<h2>b. Create another dialog " check agent availability. Call our flow 'checking agent availability from there. You also have to create a variable in the bot, to match 'varOverallResult' variable that comes from our flow. </h2>
+
+![image](https://user-images.githubusercontent.com/37139091/217407886-ca1caa33-405f-4f28-8655-b1ff7f87dffd.png)
+
+<h2> c. As can be seen on the screenshot above, you need to create two conditions/rules. </h2>
+<h2>1- If variable agentIsAvailable is true, we want to redirect the customer to another dialog (You need to create this other dialog - called "Chat with agent transfer" </h2>
+<h2>2 - If variable agentIsAvailable is false, we want to redirect the customer to the "no agent dialog" - this comes with the bot </h2>
 
 
 
